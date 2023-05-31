@@ -1,5 +1,12 @@
 # Instructions on Making a Bottle for a Baby
 
+## About
+
+-When baby cries it's usually time for a bottle
+-Bottles are hand mixed by the parents
+-Bottles use precise measurements
+-Most formula measurements are universal
+
 ## Init: Set Variables for Process
 
 formula = Similac Advance
